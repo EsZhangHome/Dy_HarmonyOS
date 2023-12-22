@@ -15,7 +15,7 @@ export default class EntryAbility extends UIAbility {
     // 主窗口已创建 设置主page 为此 ability
     Logger.info('Ability onWindowStageCreate');
 
-    windowStage.loadContent('pages/Index', (err, data) => {
+    windowStage.loadContent('pages/SplashPage', (err, data) => {
       if (err.code) {
         Logger.error('Failed to load the content', JSON.stringify(err) ?? '');
         return;
