@@ -1,0 +1,44 @@
+{
+  "float": [
+    {
+      "name": "default_1vp",
+      "value": "1vp"
+    },
+    {
+      "name": "default_2vp",
+      "value": "2vp"
+    },
+    {
+      "name": "default_3vp",
+      "value": "3vp"
+    },
+    {
+      "name": "default_4vp",
+      "value": "4vp"
+    },
+    {
+      "name": "default_5vp",
+      "value": "5vp"
+    },
+    {
+      "name": "default_6vp",
+      "value": "6vp"
+    },
+    {
+      "name": "default_7vp",
+      "value": "7vp"
+    },
+    {
+      "name": "default_70vp",
+      "value": "70vp"
+    },
+    {
+      "name": "default_90vp",
+      "value": "90vp"
+    },
+    {
+      "name": "default_300vp",
+      "value": "300vp"
+    }
+  ]
+}
